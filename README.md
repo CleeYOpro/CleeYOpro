@@ -72,11 +72,11 @@
 </p>
 
 <p align="center">
-  <img src="https://giffiles.alphacoders.com/269/26948.gif" alt="cool gif" width="240"/>
+  <img src="26948.gif" alt="cool gif" width="240"/>
 </p>
 
 <!-- snake.svg: make sure output/snake.svg exists, otherwise remove this line -->
-<img align="right" height="203" src="https://raw.githubusercontent.com/CleeYOpro/CleeYOpro/output/snake.svg" alt="Snake animation" />
+<!-- <img align="right" height="203" src="https://raw.githubusercontent.com/CleeYOpro/CleeYOpro/output/snake.svg" alt="Snake animation" /> -->
 
 ---
 
@@ -84,6 +84,3 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=CleeYOpro&radius=16&theme=github-dark&area=true" height="300" alt="activity graph"/>
 </p>
 
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=CleeYOpro.CleeYOpro" alt="visitor badge"/>
-</p>
