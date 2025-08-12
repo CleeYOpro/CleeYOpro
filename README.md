@@ -14,6 +14,28 @@
 - EdTech, AI automation, or GIS-driven projects with real-world impact.
 
 ---
+### 🐍 GitHub Contributions Snake
+<picture align="right">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CleeYOpro/CleeYOpro/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CleeYOpro/CleeYOpro/output/snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/CleeYOpro/CleeYOpro/output/snake.svg" height="203" style="border: 1px solid #ccc; border-radius: 10px;" />
+</picture>
+
+
+---
+
+### 📫 Connect
+<p>
+  <a href="#"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge" alt="youtube" height="36"></a>
+  <a href="#"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" alt="instagram" height="36"></a>
+  <a href="#"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" alt="discord" height="36"></a>
+  <a href="mailto:cbalaranjith@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" alt="gmail" height="36"></a>
+  <a href="#"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" alt="linkedin" height="36"></a>
+  <a href="https://medium.com/@cleeo001" target="_blank"><img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&style=for-the-badge" alt="medium" height="36"></a>
+</p>
+
+---
+
 
 ### 🛠 Tech + Tools
 <div align="left">
@@ -53,30 +75,20 @@
 
 ---
 
-### 📫 Connect
-<p>
-  <a href="#"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge" alt="youtube" height="36"></a>
-  <a href="#"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" alt="instagram" height="36"></a>
-  <a href="#"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" alt="discord" height="36"></a>
-  <a href="mailto:cbalaranjith@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" alt="gmail" height="36"></a>
-  <a href="#"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" alt="linkedin" height="36"></a>
-  <a href="https://medium.com/@cleeo001" target="_blank"><img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&style=for-the-badge" alt="medium" height="36"></a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://open.spotify.com/user/31uet74xqqlbwwui3wkigzyax7m4">
+        <img src="https://spotify-recently-played-readme.vercel.app/api?user=31uet74xqqlbwwui3wkigzyax7m4&count=5&unique=false" alt="Spotify recently played" />
+      </a>
+    </td>
+    <td align="center">
+      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTVianBheXJtYWh4ZnA3a3hwMmhrazNrYWJnaDZtdm43Nms3bnc1MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PDFBlzNPTl8gwlgrKn/giphy.gif" alt="LeBron James celebration GIF" width="185" />
+    </td>
+  </tr>
+</table>
 
----
 
-<p align="center">
-  <a href="https://open.spotify.com/user/31uet74xqqlbwwui3wkigzyax7m4">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31uet74xqqlbwwui3wkigzyax7m4&count=5&unique=false" alt="Spotify recently played">
-  </a>
-</p>
-
-<p align="center">
-  <img src="26948.gif" alt="cool gif" width="240"/>
-</p>
-
-<!-- snake.svg: make sure output/snake.svg exists, otherwise remove this line -->
-<img align="right" height="203" src="https://raw.githubusercontent.com/CleeYOpro/CleeYOpro/output/snake.svg" alt="Snake animation" />
 
 ---
 
