@@ -76,7 +76,7 @@
 </p>
 
 <!-- snake.svg: make sure output/snake.svg exists, otherwise remove this line -->
-<!-- <img align="right" height="203" src="https://raw.githubusercontent.com/CleeYOpro/CleeYOpro/output/snake.svg" alt="Snake animation" /> -->
+<img align="right" height="203" src="https://raw.githubusercontent.com/CleeYOpro/CleeYOpro/output/snake.svg" alt="Snake animation" />
 
 ---
 
