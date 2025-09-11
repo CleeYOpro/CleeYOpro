@@ -3,16 +3,15 @@
 ---
 
 ### 🔭 Currently working on
-- An attendance tracking app for underprivileged schools in remote India.  
-- Websites & dashboards that mix AI, GIS, and automation.
+- An Attendance Intelligence Suite for underprivileged schools in remote India.  
+- Websites & dashboards
 
 ### 🌱 Currently learning
 - Full-stack app scaling with Next.js & serverless functions.  
 - Mobile-first design for low-connectivity environments.
 
 ### 👯 Looking to collaborate on
-- EdTech, AI automation, or GIS-driven projects with real-world impact.
-
+- projects with real world impact
 ---
 ### 🐍 GitHub Contributions Snake
 <picture align="right">
