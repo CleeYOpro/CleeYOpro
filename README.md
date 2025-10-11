@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋! My name is Cleo — full-stack dev + high school junior from sammamish, WA.</h1>
+<h1 align="left">hi im cleo</h1>
 
 ---
 
