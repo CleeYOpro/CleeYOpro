@@ -74,43 +74,6 @@
 
 ---
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://open.spotify.com/user/31uet74xqqlbwwui3wkigzyax7m4">
-        <img src="https://spotify-recently-played-readme.vercel.app/api?user=31uet74xqqlbwwui3wkigzyax7m4&count=5&unique=false" alt="Spotify recently played" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://cleof.us" target="_blank" style="text-decoration: none;">
-        <div style="
-          width: 330px; 
-          height: 330px; 
-          background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); 
-          border-radius: 12px; 
-          display: flex; 
-          flex-direction: column; 
-          align-items: center; 
-          justify-content: center; 
-          color: white; 
-          font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
-          transition: all 0.3s ease;
-          cursor: pointer;
-          box-shadow: 0 4px 15px rgba(0,0,0,0.1);
-        " 
-        onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 8px 25px rgba(0,0,0,0.2)';" 
-        onmouseout="this.style.transform='translateY(0px)'; this.style.boxShadow='0 4px 15px rgba(0,0,0,0.1)';">
-          <div style="font-size: 48px; margin-bottom: 8px;">🌐</div>
-          <div style="font-size: 16px; font-weight: 600;">Visit My Website</div>
-          <div style="font-size: 14px; opacity: 0.8;">cleof.us</div>
-        </div>
-      </a>
-    </td>
-  </tr>
-</table>
-
-
-
 ---
 
 <p align="center">
