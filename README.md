@@ -5,15 +5,15 @@
 ### 🔭 Currently working on
 - An Attendance Intelligence Suite for underprivileged schools in remote India.  
 - Websites & dashboards
+- js sucks
 
 ### 🌱 Currently learning
-- Full-stack app scaling with Next.js & serverless functions.  
-- Mobile-first design for low-connectivity environments.
+- Android studio and mobile app development
 
 ### 👯 Looking to collaborate on
 - projects with real world impact
 ---
-### 🐍 GitHub Contributions Snake
+### 🐍 contributions
 <picture align="right">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CleeYOpro/CleeYOpro/output/snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CleeYOpro/CleeYOpro/output/snake.svg" />
