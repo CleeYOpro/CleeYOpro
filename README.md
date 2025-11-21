@@ -5,8 +5,6 @@
 ### 🔭 Currently working on
 - An Attendance Intelligence Suite for underprivileged schools in remote India.  
 - Websites & dashboards
-- js syabu
-- ts pmo
 - those who know
 
 ### 🌱 Currently learning
