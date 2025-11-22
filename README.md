@@ -1,16 +1,15 @@
 <h1 align="left">cleosucks@life</h1>
-
+<h1 align="left">if u dont code with a quarter zip on amazon aint hiring u</h1>
 ---
 
 ### 🔭 Currently working on
 - An Attendance Intelligence Suite for underprivileged schools in remote India.  
 - Websites & dashboards
-- those who know
 
 ### 🌱 Currently learning
 - Android studio and mobile app development
 
-### 👯 Looking to collaborate on
+### help me out with
 - projects with real world impact
 ---
 ### 🐍 contributions
