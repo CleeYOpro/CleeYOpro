@@ -12,28 +12,18 @@
 ### help me out with
 - projects with real world impact
 ---
-### 🐍 contributions
-<picture align="right">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CleeYOpro/CleeYOpro/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CleeYOpro/CleeYOpro/output/snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/CleeYOpro/CleeYOpro/output/snake.svg" height="203" style="border: 1px solid #ccc; border-radius: 10px;" />
-</picture>
-
-
----
 
 ### 📫 Connect
 <p>
-  <a href="#"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge" alt="youtube" height="36"></a>
-  <a href="#"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" alt="instagram" height="36"></a>
-  <a href="#"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" alt="discord" height="36"></a>
+  <a href="https://www.youtube.com/channel/UCX6OQ3DkcsbYNE6H8uQQuVA"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge" alt="youtube" height="36"></a>
+  <a href="https://instagram.com/cle0b"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" alt="instagram" height="36"></a>
+  <a href="https://discordapp.com/users/1287117811482628286"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" alt="discord" height="36"></a>
   <a href="mailto:cbalaranjith@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" alt="gmail" height="36"></a>
-  <a href="#"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" alt="linkedin" height="36"></a>
-  <a href="https://medium.com/@cleeo001" target="_blank"><img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&style=for-the-badge" alt="medium" height="36"></a>
+  <a href="https://www.linkedin.com/in/cleofus/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" alt="linkedin" height="36"></a>
+  <a href="https://medium.com/@cleobala" target="_blank"><img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&style=for-the-badge" alt="medium" height="36"></a>
 </p>
 
 ---
-
 
 ### 🛠 Tech + Tools
 <div align="left">
