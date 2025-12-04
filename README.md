@@ -1,5 +1,4 @@
 <h1 align="left">cleosucks@life</h1>
-<h1 align="left">we dont do no nike techs</h1>
 ---
 
 ### 🔭 Currently working on
