@@ -1,5 +1,4 @@
 <h1 align="left">cleoblush😳</h1>
----
 
 ### 🔭 Currently working on
 - Websites & dashboards
@@ -80,11 +79,4 @@
 </p>
 </div>
 
----
-
----
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CleeYOpro&radius=16&theme=github-dark&area=true" height="300" alt="activity graph"/>
-</p>
 
