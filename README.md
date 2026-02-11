@@ -32,7 +32,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" height="40" style="margin-right:8px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" height="40" style="margin-right:8px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" height="40" style="margin-right:8px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" height="40" style="margin-right:8px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" alt="anaconda" height="40" style="margin-right:8px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="arduino" height="40" style="margin-right:8px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" height="40" style="margin-right:8px"/>
@@ -40,21 +39,17 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" alt="illustrator" height="40" style="margin-right:8px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" height="40" style="margin-right:8px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" height="40" style="margin-right:8px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" height="40" style="margin-right:8px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" height="40" style="margin-right:8px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="jupyter" height="40" style="margin-right:8px"/>
   <img src="https://cdn.simpleicons.org/canva/00C4CC" alt="canva" height="40" style="margin-right:8px"/>
   <img src="https://cdn.simpleicons.org/mongodb/47A248" alt="mongodb" height="40" style="margin-right:8px"/>
   <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" height="40" style="margin-right:8px"/>
   <img src="https://cdn.simpleicons.org/pandas/150458" alt="pandas" height="40" style="margin-right:8px"/>
-  <img src="https://cdn.simpleicons.org/vuedotjs/4FC08D" alt="vuejs" height="40" style="margin-right:8px"/>
   <img src="https://cdn.simpleicons.org/git/F05032" alt="git" height="40" style="margin-right:8px"/>
   <img src="https://cdn.simpleicons.org/supabase/3ECF8E" alt="supabase" height="40" style="margin-right:8px"/>
   <img src="https://cdn.simpleicons.org/gnubash/4EAA25" alt="bash" height="40" style="margin-right:8px"/>
-  <img src="https://cdn.simpleicons.org/go/00ADD8" alt="go" height="40" style="margin-right:8px"/>
   <img src="https://cdn.simpleicons.org/kaggle/20BEFF" alt="kaggle" height="40" style="margin-right:8px"/>
   <img src="https://cdn.simpleicons.org/opera/FF1B2D" alt="opera" height="40" style="margin-right:8px"/>
-  <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" alt="pytorch" height="40" style="margin-right:8px"/>
   <img src="https://skillicons.dev/icons?i=cloudflare" alt="cloudflare" height="40" style="margin-right:8px"/>
   <img src="https://skillicons.dev/icons?i=vercel" alt="vercel" height="40" style="margin-right:8px"/>
   <img src="https://skillicons.dev/icons?i=flask" alt="flask" height="40" style="margin-right:8px"/>
