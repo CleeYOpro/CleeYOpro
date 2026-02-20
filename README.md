@@ -4,7 +4,7 @@
 - Websites & dashboards
 
 ### 🌱 Currently learning
-- data structures
+- javajavajava
 - LLM api-based web integration
 
 ### help me out with
