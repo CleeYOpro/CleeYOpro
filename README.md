@@ -1,4 +1,4 @@
-<h1 align="left">cleoblush😳</h1>
+<h1 align="left">hi im cleo</h1>
 
 ### 🔭 Currently working on
 - Websites & dashboards
