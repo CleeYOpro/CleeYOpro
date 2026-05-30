@@ -2,10 +2,11 @@
 
 ### 🔭 Currently working on
 - Websites & dashboards
+- leetcode
 
 ### 🌱 Currently learning
-- javajavajava
-- LLM api-based web integration
+- geopandas+brushing up on python
+- data structures & alg
 
 ### help me out with
 - projects with real world impact
