@@ -5,7 +5,6 @@
 - leetcode
 
 ### 🌱 Currently learning
-- geopandas+brushing up on python
 - data structures & alg
 
 ### help me out with
