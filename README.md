@@ -1,16 +1,5 @@
 <h1 align="left">hi im cleo</h1>
 
-### 🔭 Currently working on
-- Websites & dashboards
-- leetcode
-
-### 🌱 Currently learning
-- data structures & alg
-
-### help me out with
-- projects with real world impact
----
-
 ### 📫 Connect
 <p>
   <a href="https://www.youtube.com/@cleobalaranjith"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge" alt="youtube" height="36"></a>
